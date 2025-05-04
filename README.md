@@ -8,31 +8,38 @@ This is a mini QA demo project created to demonstrate how I approach manual test
 
 ## Test Target
 Sample site used: [The Internet by Heroku](https://the-internet.herokuapp.com/)
+A playground web app with sample pages for login forms, dropdowns, broken images, and dynamic notifications.
 
 ## What's Included
-- ✅ 1-page test plan
-- ✅ 5+ functional test cases
-- ✅ 2 bug reports (JIRA-style)
-- 🛠️ Optional: 1 Katalon Studio test script (if time permits)
+-  `Test-Plan.md` – High-level QA strategy and approach  
+-  `Test-Cases.md` – Functional test cases with clear steps and outcomes  
+-  *Test Cases/` + `Object Repository/` – Katalon Studio UI test (Valid Login)
 
 ## Tools Used
-- Manual testing (Chrome browser)
-- Markdown/Google Docs for documentation
-- GitHub for version control
-- (Optional) Katalon Studio
+- **Manual testing:** Chrome Browser + Chrome DevTools  
+- **Documentation:** Markdown (`.md` files)  
+- **Version control & presentation:** GitHub  
+- **Automation:** Katalon Studio
 
 ## Folder Structure
 
-qa-demo-project/
-├── test-plan.md
-├── test-cases.md
-├── bug-reports.md
-├── README.md
+qa-demo/
+├── Test-Plan.md # Manual test plan document
+├── Test-Cases.md # Functional test cases (markdown)
+├── Test Cases/ # Katalon Studio test case
+├── Object Repository/ # Katalon test object mappings
+├── README.md # This file
 
-## How to View
-- Open `test-plan.md` to see the QA strategy and scope.
-- Open `test-cases.md` to view test cases.
-- Open `bug-reports.md` for example bug tickets.
+## How to Navigate
+- Open **Test-Plan.md** to review scope, environment, and approach.  
+- View **Test-Cases.md** to read the tested features and results.  
+- Check **Bug-Reports.md** for real-world style issue tracking.  
+- Katalon test can be opened in [Katalon Studio](https://katalon.com).
+
+  ## Katalon Images
+
+  - ![Katalon Test]("C:\Users\josha\OneDrive\Pictures\Screenshots\Katalon Studio Demo.png")
+
 
 ## Author
 Joshua Beaton
