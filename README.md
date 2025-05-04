@@ -38,7 +38,7 @@ qa-demo/
 
   ## Katalon Images
 
-  - ![Katalon Test]("C:\Users\josha\OneDrive\Pictures\Screenshots\Katalon Studio Demo.png")
+  - ![Katalon Test](Screenshots\Katalon Studio Demo.png)
 
 
 ## Author
