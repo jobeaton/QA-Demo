@@ -38,7 +38,7 @@ qa-demo/
 
   ## Katalon Images
 
-  - ![Katalon Test](Katalon Studio Demo.png)
+  - ![Katalon Test](Katalon_Studio_Demo.png)
 
 
 ## Author
