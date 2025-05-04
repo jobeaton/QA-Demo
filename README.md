@@ -1,10 +1,10 @@
 # QA-Demo
 A mini QA demo project showcasing manual test planning, test case writing, and bug reporting for a sample web application. Created for my second-round QA Analyst interview at Carebook.
 
-# QA Demo Project – [Site Name]
+# QA Demo Project – [The Internet by Heroku]
 
 ## Overview
-This is a mini QA demo project created to demonstrate how I approach manual testing, test case documentation, and bug reporting. It was built specifically in preparation for my second-round interview for the QA Analyst role at CoreHealth.
+This is a mini QA demo project created to demonstrate how I approach manual testing, test case documentation, and bug reporting. It was built specifically in preparation for my second-round interview for the QA Analyst role at Carebook.
 
 ## Test Target
 Sample site used: [The Internet by Heroku](https://the-internet.herokuapp.com/)
