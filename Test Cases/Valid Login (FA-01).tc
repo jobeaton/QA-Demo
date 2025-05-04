@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>**Steps:**&#xd;
+1. Navigate to the Login page&#xd;
+2. Enter username: `tomsmith`&#xd;
+3. Enter password: `SuperSecretPassword!`&#xd;
+4. Click the Login button&#xd;
+&#xd;
+**Expected Result:**  &#xd;
+User is redirected to the secure area. A success message appears at the top.</description>
+   <name>Valid Login (FA-01)</name>
+   <tag>FA-01</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3a6c79a-3661-43fd-a67c-25644bce52d7</testCaseGuid>
+</TestCaseEntity>
