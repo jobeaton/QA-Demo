@@ -33,7 +33,6 @@ qa-demo/
 ## How to Navigate
 - Open **Test-Plan.md** to review scope, environment, and approach.  
 - View **Test-Cases.md** to read the tested features and results.  
-- Check **Bug-Reports.md** for real-world style issue tracking.  
 - Katalon test can be opened in [Katalon Studio](https://katalon.com).
 
   ## Katalon Images
